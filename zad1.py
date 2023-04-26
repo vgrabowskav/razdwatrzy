@@ -6,7 +6,7 @@ print("1+1")
 print("hej"*3)
 print("hej\n")
 print("elo\t")
-print("siema")
+print("siema Byku")
 print("""Pierwsza linijka
 dryga
                   trzecia
