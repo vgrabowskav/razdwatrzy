@@ -14,3 +14,5 @@ dryga
 print("wynikiem dodawania", 2, "i", 3, "jest", 2+3)
 print("wynikiem dodawania 2 i 3 jest: ", 2 + 3) 
 print(2+3)
+
+print("TO jest zmiana")
